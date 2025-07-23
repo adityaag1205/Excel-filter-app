@@ -59,10 +59,7 @@ FilterMate/
 - **DurationInput**: Accepts time or numeric filter durations
 - **DownloadResult**: Interface to download processed output
 
-## 📄 License
-
-[MIT](LICENSE)
 
 ## 🤝 Contributors
 
-- [Your Name](https://github.com/your-username)
+- [Aditya Agarwal](https://github.com/adityaag1205)
